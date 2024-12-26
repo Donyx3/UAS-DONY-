@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "676cae8c582be8312ce9496a"
+  },
+  "categori": "Dokter",
+  "nama": "Dony Septian",
+  "spesialis": "Bedah Jantung"
+},
+{
+  "_id": {
+    "$oid": "676cae8c582be8312ce9496b"
+  },
+  "categori": "Pasien",
+  "nama": "Dzulfikri",
+  "gender": "laki laki",
+  "tanggal_lahir": "13 januari 2005"
+},
+{
+  "_id": {
+    "$oid": "676cae8c582be8312ce9496c"
+  },
+  "categori": "Obat",
+  "nama": "paracetamol",
+  "tanggal_distribusi": "27 desember2024"
+}]
